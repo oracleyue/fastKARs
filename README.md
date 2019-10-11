@@ -1,5 +1,10 @@
 # k-ARs: a fast time-series clustering method for large-scale problems
 
+This project implements the mixture AR method and the k-ARs method to
+perform time-series clustering. They both utilize the EM algorithm. The
+k-ARs method is proposed in [Yue & Solo, ICASSP, 2019] to improve
+computation speed considerably for large-scale problems.
+
 ## Functions
 
 The following functions in MATLAB implement the methods proposed in
