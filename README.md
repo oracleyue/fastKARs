@@ -1,9 +1,9 @@
-# k-ARs: a fast time-series clustering method for large-scale problems
+# k-ARs: a fast method for large-scale time-series clustering
 
 This project implements the mixture AR method and the k-ARs method to
 perform time-series clustering. They both utilize the EM algorithm. The
-k-ARs method is proposed in [Yue & Solo, ICASSP, 2019] to improve
-computation speed considerably for large-scale problems.
+k-ARs method is proposed in [Yue & Solo, 2019] (submitted to ICASSP
+2020) to improve computation speed considerably for large-scale problems.
 
 ## Functions
 
