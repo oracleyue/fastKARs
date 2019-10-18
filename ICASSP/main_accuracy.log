@@ -1,0 +1,210 @@
+... 1-th dataset: k-ARs doneElapsed time is 0.084467 seconds.
+... 1-th dataset: mixARs doneElapsed time is 0.054632 seconds.
+... 2-th dataset: k-ARs doneElapsed time is 0.086444 seconds.
+... 2-th dataset: mixARs doneElapsed time is 0.291600 seconds.
+[Warning: The matching failed due to certain ground truth models are
+tooclose, or estimation errors are too large.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('labelmatch', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/labelmatch.m', 53)" style="font-weight:bold">labelmatch</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/labelmatch.m',53,0)">line 53</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_accuracy', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_accuracy.m', 40)" style="font-weight:bold">main_accuracy</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_accuracy.m',40,0)">line 40</a>)] 
+... 3-th dataset: k-ARs doneElapsed time is 0.125739 seconds.
+... 3-th dataset: mixARs doneElapsed time is 1.657736 seconds.
+[Warning: The matching failed due to certain ground truth models are
+tooclose, or estimation errors are too large.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('labelmatch', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/labelmatch.m', 53)" style="font-weight:bold">labelmatch</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/labelmatch.m',53,0)">line 53</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_accuracy', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_accuracy.m', 40)" style="font-weight:bold">main_accuracy</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_accuracy.m',40,0)">line 40</a>)] 
+... 4-th dataset: k-ARs doneElapsed time is 0.220618 seconds.
+... 4-th dataset: mixARs doneElapsed time is 2.525891 seconds.
+[Warning: The matching failed due to certain ground truth models are
+tooclose, or estimation errors are too large.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('labelmatch', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/labelmatch.m', 53)" style="font-weight:bold">labelmatch</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/labelmatch.m',53,0)">line 53</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_accuracy', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_accuracy.m', 40)" style="font-weight:bold">main_accuracy</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_accuracy.m',40,0)">line 40</a>)] 
+[Warning: No time series contributes to the 6-th model.
+ Model update has been skipped.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('kARs', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/kARs.m', 178)" style="font-weight:bold">kARs</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/kARs.m',178,0)">line 178</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_accuracy', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_accuracy.m', 30)" style="font-weight:bold">main_accuracy</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_accuracy.m',30,0)">line 30</a>)] 
+... 5-th dataset: k-ARs doneElapsed time is 0.269764 seconds.
+... 5-th dataset: mixARs doneElapsed time is 30.022392 seconds.
+[Warning: The matching failed due to certain ground truth models are
+tooclose, or estimation errors are too large.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('labelmatch', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/labelmatch.m', 53)" style="font-weight:bold">labelmatch</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/labelmatch.m',53,0)">line 53</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_accuracy', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_accuracy.m', 40)" style="font-weight:bold">main_accuracy</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_accuracy.m',40,0)">line 40</a>)] 
+... 6-th dataset: k-ARs doneElapsed time is 0.343828 seconds.
+... 6-th dataset: mixARs doneElapsed time is 1.589038 seconds.
+[Warning: The matching failed due to certain ground truth models are
+tooclose, or estimation errors are too large.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('labelmatch', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/labelmatch.m', 53)" style="font-weight:bold">labelmatch</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/labelmatch.m',53,0)">line 53</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_accuracy', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_accuracy.m', 40)" style="font-weight:bold">main_accuracy</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_accuracy.m',40,0)">line 40</a>)] 
+[Warning: No time series contributes to the 9-th model.
+ Model update has been skipped.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('kARs', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/kARs.m', 178)" style="font-weight:bold">kARs</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/kARs.m',178,0)">line 178</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_accuracy', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_accuracy.m', 30)" style="font-weight:bold">main_accuracy</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_accuracy.m',30,0)">line 30</a>)] 
+[Warning: No time series contributes to the 9-th model.
+ Model update has been skipped.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('kARs', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/kARs.m', 178)" style="font-weight:bold">kARs</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/kARs.m',178,0)">line 178</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_accuracy', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_accuracy.m', 30)" style="font-weight:bold">main_accuracy</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_accuracy.m',30,0)">line 30</a>)] 
+[Warning: No time series contributes to the 9-th model.
+ Model update has been skipped.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('kARs', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/kARs.m', 178)" style="font-weight:bold">kARs</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/kARs.m',178,0)">line 178</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_accuracy', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_accuracy.m', 30)" style="font-weight:bold">main_accuracy</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_accuracy.m',30,0)">line 30</a>)] 
+[Warning: No time series contributes to the 9-th model.
+ Model update has been skipped.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('kARs', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/kARs.m', 178)" style="font-weight:bold">kARs</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/kARs.m',178,0)">line 178</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_accuracy', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_accuracy.m', 30)" style="font-weight:bold">main_accuracy</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_accuracy.m',30,0)">line 30</a>)] 
+[Warning: No time series contributes to the 9-th model.
+ Model update has been skipped.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('kARs', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/kARs.m', 178)" style="font-weight:bold">kARs</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/kARs.m',178,0)">line 178</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_accuracy', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_accuracy.m', 30)" style="font-weight:bold">main_accuracy</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_accuracy.m',30,0)">line 30</a>)] 
+[Warning: No time series contributes to the 9-th model.
+ Model update has been skipped.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('kARs', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/kARs.m', 178)" style="font-weight:bold">kARs</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/kARs.m',178,0)">line 178</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_accuracy', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_accuracy.m', 30)" style="font-weight:bold">main_accuracy</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_accuracy.m',30,0)">line 30</a>)] 
+... 7-th dataset: k-ARs doneElapsed time is 0.356064 seconds.
+... 7-th dataset: mixARs doneElapsed time is 11.455184 seconds.
+[Warning: The matching failed due to certain ground truth models are
+tooclose, or estimation errors are too large.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('labelmatch', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/labelmatch.m', 53)" style="font-weight:bold">labelmatch</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/labelmatch.m',53,0)">line 53</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_accuracy', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_accuracy.m', 40)" style="font-weight:bold">main_accuracy</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_accuracy.m',40,0)">line 40</a>)] 
+[Warning: No time series contributes to the 15-th model.
+ Model update has been skipped.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('kARs', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/kARs.m', 178)" style="font-weight:bold">kARs</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/kARs.m',178,0)">line 178</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_accuracy', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_accuracy.m', 30)" style="font-weight:bold">main_accuracy</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_accuracy.m',30,0)">line 30</a>)] 
+... 8-th dataset: k-ARs doneElapsed time is 0.386177 seconds.
+... 8-th dataset: mixARs doneElapsed time is 15.332870 seconds.
+[Warning: The matching failed due to certain ground truth models are
+tooclose, or estimation errors are too large.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('labelmatch', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/labelmatch.m', 53)" style="font-weight:bold">labelmatch</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/labelmatch.m',53,0)">line 53</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_accuracy', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_accuracy.m', 40)" style="font-weight:bold">main_accuracy</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_accuracy.m',40,0)">line 40</a>)] 
+... 9-th dataset: k-ARs doneElapsed time is 0.735230 seconds.
+... 9-th dataset: mixARs doneElapsed time is 37.636830 seconds.
+[Warning: The matching failed due to certain ground truth models are
+tooclose, or estimation errors are too large.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('labelmatch', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/labelmatch.m', 53)" style="font-weight:bold">labelmatch</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/labelmatch.m',53,0)">line 53</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_accuracy', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_accuracy.m', 40)" style="font-weight:bold">main_accuracy</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_accuracy.m',40,0)">line 40</a>)] 
+[Warning: No time series contributes to the 8-th model.
+ Model update has been skipped.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('kARs', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/kARs.m', 178)" style="font-weight:bold">kARs</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/kARs.m',178,0)">line 178</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_accuracy', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_accuracy.m', 30)" style="font-weight:bold">main_accuracy</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_accuracy.m',30,0)">line 30</a>)] 
+... 10-th dataset: k-ARs doneElapsed time is 0.607713 seconds.
+... 10-th dataset: mixARs doneElapsed time is 42.953001 seconds.
+[Warning: The matching failed due to certain ground truth models are
+tooclose, or estimation errors are too large.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('labelmatch', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/labelmatch.m', 53)" style="font-weight:bold">labelmatch</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/labelmatch.m',53,0)">line 53</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_accuracy', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_accuracy.m', 40)" style="font-weight:bold">main_accuracy</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_accuracy.m',40,0)">line 40</a>)] 
+... 11-th dataset: k-ARs doneElapsed time is 0.599602 seconds.
+... 11-th dataset: mixARs doneElapsed time is 80.342061 seconds.
+[Warning: The matching failed due to certain ground truth models are
+tooclose, or estimation errors are too large.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('labelmatch', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/labelmatch.m', 53)" style="font-weight:bold">labelmatch</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/labelmatch.m',53,0)">line 53</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_accuracy', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_accuracy.m', 40)" style="font-weight:bold">main_accuracy</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_accuracy.m',40,0)">line 40</a>)] 
+... 12-th dataset: k-ARs doneElapsed time is 0.808052 seconds.
+... 12-th dataset: mixARs doneElapsed time is 45.434348 seconds.
+[Warning: The matching failed due to certain ground truth models are
+tooclose, or estimation errors are too large.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('labelmatch', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/labelmatch.m', 53)" style="font-weight:bold">labelmatch</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/labelmatch.m',53,0)">line 53</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_accuracy', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_accuracy.m', 40)" style="font-weight:bold">main_accuracy</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_accuracy.m',40,0)">line 40</a>)] 
+... 13-th dataset: k-ARs doneElapsed time is 1.144758 seconds.
+... 13-th dataset: mixARs doneElapsed time is 195.635877 seconds.
+[Warning: The matching failed due to certain ground truth models are
+tooclose, or estimation errors are too large.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('labelmatch', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/labelmatch.m', 53)" style="font-weight:bold">labelmatch</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/labelmatch.m',53,0)">line 53</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_accuracy', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_accuracy.m', 40)" style="font-weight:bold">main_accuracy</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_accuracy.m',40,0)">line 40</a>)] 
+... 14-th dataset: k-ARs doneElapsed time is 1.433386 seconds.
+... 14-th dataset: mixARs doneElapsed time is 212.563570 seconds.
+[Warning: The matching failed due to certain ground truth models are
+tooclose, or estimation errors are too large.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('labelmatch', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/labelmatch.m', 53)" style="font-weight:bold">labelmatch</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/labelmatch.m',53,0)">line 53</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_accuracy', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_accuracy.m', 40)" style="font-weight:bold">main_accuracy</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_accuracy.m',40,0)">line 40</a>)] 
+... 15-th dataset: k-ARs doneElapsed time is 1.369237 seconds.
+... 15-th dataset: mixARs doneElapsed time is 75.240519 seconds.
+[Warning: The matching failed due to certain ground truth models are
+tooclose, or estimation errors are too large.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('labelmatch', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/labelmatch.m', 53)" style="font-weight:bold">labelmatch</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/labelmatch.m',53,0)">line 53</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_accuracy', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_accuracy.m', 40)" style="font-weight:bold">main_accuracy</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_accuracy.m',40,0)">line 40</a>)] 
+[Warning: No time series contributes to the 9-th model.
+ Model update has been skipped.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('kARs', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/kARs.m', 178)" style="font-weight:bold">kARs</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/kARs.m',178,0)">line 178</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_accuracy', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_accuracy.m', 30)" style="font-weight:bold">main_accuracy</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_accuracy.m',30,0)">line 30</a>)] 
+... 16-th dataset: k-ARs doneElapsed time is 1.647658 seconds.
+... 16-th dataset: mixARs doneElapsed time is 112.670350 seconds.
+[Warning: The matching failed due to certain ground truth models are
+tooclose, or estimation errors are too large.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('labelmatch', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/labelmatch.m', 53)" style="font-weight:bold">labelmatch</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/labelmatch.m',53,0)">line 53</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_accuracy', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_accuracy.m', 40)" style="font-weight:bold">main_accuracy</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_accuracy.m',40,0)">line 40</a>)] 
+[Warning: No time series contributes to the 34-th model.
+ Model update has been skipped.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('kARs', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/kARs.m', 178)" style="font-weight:bold">kARs</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/kARs.m',178,0)">line 178</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_accuracy', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_accuracy.m', 30)" style="font-weight:bold">main_accuracy</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_accuracy.m',30,0)">line 30</a>)] 
+... 17-th dataset: k-ARs doneElapsed time is 1.517779 seconds.
+... 17-th dataset: mixARs doneElapsed time is 1244.734649 seconds.
+[Warning: The matching failed due to certain ground truth models are
+tooclose, or estimation errors are too large.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('labelmatch', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/labelmatch.m', 53)" style="font-weight:bold">labelmatch</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/labelmatch.m',53,0)">line 53</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_accuracy', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_accuracy.m', 40)" style="font-weight:bold">main_accuracy</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_accuracy.m',40,0)">line 40</a>)] 
+[Warning: No time series contributes to the 8-th model.
+ Model update has been skipped.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('kARs', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/kARs.m', 178)" style="font-weight:bold">kARs</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/kARs.m',178,0)">line 178</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_accuracy', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_accuracy.m', 30)" style="font-weight:bold">main_accuracy</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_accuracy.m',30,0)">line 30</a>)] 
+... 18-th dataset: k-ARs doneElapsed time is 1.486078 seconds.
+... 18-th dataset: mixARs doneElapsed time is 77.857925 seconds.
+[Warning: The matching failed due to certain ground truth models are
+tooclose, or estimation errors are too large.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('labelmatch', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/labelmatch.m', 53)" style="font-weight:bold">labelmatch</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/labelmatch.m',53,0)">line 53</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_accuracy', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_accuracy.m', 40)" style="font-weight:bold">main_accuracy</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_accuracy.m',40,0)">line 40</a>)] 
+... 19-th dataset: k-ARs doneElapsed time is 1.526493 seconds.
+... 19-th dataset: mixARs doneElapsed time is 881.245439 seconds.
+[Warning: The matching failed due to certain ground truth models are
+tooclose, or estimation errors are too large.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('labelmatch', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/labelmatch.m', 53)" style="font-weight:bold">labelmatch</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/labelmatch.m',53,0)">line 53</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_accuracy', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_accuracy.m', 40)" style="font-weight:bold">main_accuracy</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_accuracy.m',40,0)">line 40</a>)] 
+... 20-th dataset: k-ARs doneElapsed time is 2.059254 seconds.
+... 20-th dataset: mixARs doneElapsed time is 1379.938754 seconds.
+[Warning: The matching failed due to certain ground truth models are
+tooclose, or estimation errors are too large.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('labelmatch', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/labelmatch.m', 53)" style="font-weight:bold">labelmatch</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/labelmatch.m',53,0)">line 53</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_accuracy', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_accuracy.m', 40)" style="font-weight:bold">main_accuracy</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_accuracy.m',40,0)">line 40</a>)] 
+... 21-th dataset: k-ARs doneElapsed time is 2.619072 seconds.
+... 21-th dataset: mixARs doneElapsed time is 176.260623 seconds.
+[Warning: The matching failed due to certain ground truth models are
+tooclose, or estimation errors are too large.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('labelmatch', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/labelmatch.m', 53)" style="font-weight:bold">labelmatch</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/labelmatch.m',53,0)">line 53</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_accuracy', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_accuracy.m', 40)" style="font-weight:bold">main_accuracy</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_accuracy.m',40,0)">line 40</a>)] 
+[Warning: No time series contributes to the 5-th model.
+ Model update has been skipped.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('kARs', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/kARs.m', 178)" style="font-weight:bold">kARs</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/kARs.m',178,0)">line 178</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_accuracy', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_accuracy.m', 30)" style="font-weight:bold">main_accuracy</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_accuracy.m',30,0)">line 30</a>)] 
+[Warning: No time series contributes to the 42-th model.
+ Model update has been skipped.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('kARs', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/kARs.m', 178)" style="font-weight:bold">kARs</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/kARs.m',178,0)">line 178</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_accuracy', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_accuracy.m', 30)" style="font-weight:bold">main_accuracy</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_accuracy.m',30,0)">line 30</a>)] 
+... 22-th dataset: k-ARs doneElapsed time is 2.337186 seconds.
+... 22-th dataset: mixARs doneElapsed time is 517.652942 seconds.
+[Warning: The matching failed due to certain ground truth models are
+tooclose, or estimation errors are too large.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('labelmatch', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/labelmatch.m', 53)" style="font-weight:bold">labelmatch</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/labelmatch.m',53,0)">line 53</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_accuracy', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_accuracy.m', 40)" style="font-weight:bold">main_accuracy</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_accuracy.m',40,0)">line 40</a>)] 
+... 23-th dataset: k-ARs doneElapsed time is 2.364631 seconds.
+... 23-th dataset: mixARs doneElapsed time is 378.119308 seconds.
+[Warning: The matching failed due to certain ground truth models are
+tooclose, or estimation errors are too large.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('labelmatch', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/labelmatch.m', 53)" style="font-weight:bold">labelmatch</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/labelmatch.m',53,0)">line 53</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_accuracy', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_accuracy.m', 40)" style="font-weight:bold">main_accuracy</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_accuracy.m',40,0)">line 40</a>)] 
+... 24-th dataset: k-ARs doneElapsed time is 2.250988 seconds.
+... 24-th dataset: mixARs doneElapsed time is 422.228279 seconds.
+[Warning: The matching failed due to certain ground truth models are
+tooclose, or estimation errors are too large.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('labelmatch', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/labelmatch.m', 53)" style="font-weight:bold">labelmatch</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/labelmatch.m',53,0)">line 53</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_accuracy', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_accuracy.m', 40)" style="font-weight:bold">main_accuracy</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_accuracy.m',40,0)">line 40</a>)] 
+[Warning: No time series contributes to the 8-th model.
+ Model update has been skipped.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('kARs', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/kARs.m', 178)" style="font-weight:bold">kARs</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/kARs.m',178,0)">line 178</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_accuracy', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_accuracy.m', 30)" style="font-weight:bold">main_accuracy</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_accuracy.m',30,0)">line 30</a>)] 
+[Warning: No time series contributes to the 16-th model.
+ Model update has been skipped.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('kARs', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/kARs.m', 178)" style="font-weight:bold">kARs</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/kARs.m',178,0)">line 178</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_accuracy', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_accuracy.m', 30)" style="font-weight:bold">main_accuracy</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_accuracy.m',30,0)">line 30</a>)] 
+... 25-th dataset: k-ARs doneElapsed time is 3.602349 seconds.
+... 25-th dataset: mixARs doneElapsed time is 541.793552 seconds.
+[Warning: The matching failed due to certain ground truth models are
+tooclose, or estimation errors are too large.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('labelmatch', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/labelmatch.m', 53)" style="font-weight:bold">labelmatch</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/labelmatch.m',53,0)">line 53</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_accuracy', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_accuracy.m', 40)" style="font-weight:bold">main_accuracy</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_accuracy.m',40,0)">line 40</a>)] 

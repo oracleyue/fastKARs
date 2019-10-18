@@ -1,0 +1,30 @@
+... 1-th dataset (#signals per group = 60): mixARs done
+    elapsed time: 33489.030722 sec.
+[Warning: The matching failed due to certain ground truth models are
+tooclose, or estimation errors are too large.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('labelmatch', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/labelmatch.m', 53)" style="font-weight:bold">labelmatch</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/labelmatch.m',53,0)">line 53</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_speed2', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_speed2.m', 62)" style="font-weight:bold">main_speed2</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_speed2.m',62,0)">line 62</a>)] 
+... 2-th dataset (#signals per group = 70): mixARs done
+    elapsed time: 17684.806408 sec.
+[Warning: The matching failed due to certain ground truth models are
+tooclose, or estimation errors are too large.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('labelmatch', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/labelmatch.m', 53)" style="font-weight:bold">labelmatch</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/labelmatch.m',53,0)">line 53</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_speed2', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_speed2.m', 62)" style="font-weight:bold">main_speed2</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_speed2.m',62,0)">line 62</a>)] 
+... 3-th dataset (#signals per group = 80): mixARs done
+    elapsed time: 22354.191464 sec.
+[Warning: The matching failed due to certain ground truth models are
+tooclose, or estimation errors are too large.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('labelmatch', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/labelmatch.m', 53)" style="font-weight:bold">labelmatch</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/labelmatch.m',53,0)">line 53</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_speed2', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_speed2.m', 62)" style="font-weight:bold">main_speed2</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_speed2.m',62,0)">line 62</a>)] 
+... 4-th dataset (#signals per group = 90): mixARs done
+    elapsed time: 32858.683751 sec.
+[Warning: The matching failed due to certain ground truth models are
+tooclose, or estimation errors are too large.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('labelmatch', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/labelmatch.m', 53)" style="font-weight:bold">labelmatch</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/labelmatch.m',53,0)">line 53</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_speed2', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_speed2.m', 62)" style="font-weight:bold">main_speed2</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_speed2.m',62,0)">line 62</a>)] 
+... 5-th dataset (#signals per group = 100): mixARs done
+    elapsed time: 48549.433769 sec.
+[Warning: The matching failed due to certain ground truth models are
+tooclose, or estimation errors are too large.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('labelmatch', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/labelmatch.m', 53)" style="font-weight:bold">labelmatch</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/labelmatch.m',53,0)">line 53</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_speed2', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_speed2.m', 62)" style="font-weight:bold">main_speed2</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_speed2.m',62,0)">line 62</a>)] 

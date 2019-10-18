@@ -1,0 +1,120 @@
+... 1-th dataset (#signals per group = 10): k-ARs done
+    elapsed time: 4.835924 sec.
+[Warning: The matching failed due to certain ground truth models are
+tooclose, or estimation errors are too large.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('labelmatch', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/labelmatch.m', 53)" style="font-weight:bold">labelmatch</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/labelmatch.m',53,0)">line 53</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_speed', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_speed.m', 62)" style="font-weight:bold">main_speed</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_speed.m',62,0)">line 62</a>)] 
+... 2-th dataset (#signals per group = 20): k-ARs done
+    elapsed time: 15.187326 sec.
+[Warning: The matching failed due to certain ground truth models are
+tooclose, or estimation errors are too large.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('labelmatch', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/labelmatch.m', 53)" style="font-weight:bold">labelmatch</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/labelmatch.m',53,0)">line 53</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_speed', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_speed.m', 62)" style="font-weight:bold">main_speed</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_speed.m',62,0)">line 62</a>)] 
+... 3-th dataset (#signals per group = 30): k-ARs done
+    elapsed time: 29.950612 sec.
+[Warning: The matching failed due to certain ground truth models are
+tooclose, or estimation errors are too large.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('labelmatch', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/labelmatch.m', 53)" style="font-weight:bold">labelmatch</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/labelmatch.m',53,0)">line 53</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_speed', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_speed.m', 62)" style="font-weight:bold">main_speed</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_speed.m',62,0)">line 62</a>)] 
+... 4-th dataset (#signals per group = 40): k-ARs done
+    elapsed time: 43.671378 sec.
+[Warning: The matching failed due to certain ground truth models are
+tooclose, or estimation errors are too large.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('labelmatch', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/labelmatch.m', 53)" style="font-weight:bold">labelmatch</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/labelmatch.m',53,0)">line 53</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_speed', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_speed.m', 62)" style="font-weight:bold">main_speed</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_speed.m',62,0)">line 62</a>)] 
+... 5-th dataset (#signals per group = 50): k-ARs done
+    elapsed time: 48.084242 sec.
+[Warning: The matching failed due to certain ground truth models are
+tooclose, or estimation errors are too large.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('labelmatch', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/labelmatch.m', 53)" style="font-weight:bold">labelmatch</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/labelmatch.m',53,0)">line 53</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_speed', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_speed.m', 62)" style="font-weight:bold">main_speed</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_speed.m',62,0)">line 62</a>)] 
+... 6-th dataset (#signals per group = 60): k-ARs done
+    elapsed time: 45.484943 sec.
+[Warning: The matching failed due to certain ground truth models are
+tooclose, or estimation errors are too large.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('labelmatch', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/labelmatch.m', 53)" style="font-weight:bold">labelmatch</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/labelmatch.m',53,0)">line 53</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_speed', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_speed.m', 62)" style="font-weight:bold">main_speed</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_speed.m',62,0)">line 62</a>)] 
+... 7-th dataset (#signals per group = 70): k-ARs done
+    elapsed time: 111.693883 sec.
+[Warning: The matching failed due to certain ground truth models are
+tooclose, or estimation errors are too large.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('labelmatch', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/labelmatch.m', 53)" style="font-weight:bold">labelmatch</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/labelmatch.m',53,0)">line 53</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_speed', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_speed.m', 62)" style="font-weight:bold">main_speed</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_speed.m',62,0)">line 62</a>)] 
+... 8-th dataset (#signals per group = 80): k-ARs done
+    elapsed time: 108.765420 sec.
+[Warning: The matching failed due to certain ground truth models are
+tooclose, or estimation errors are too large.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('labelmatch', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/labelmatch.m', 53)" style="font-weight:bold">labelmatch</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/labelmatch.m',53,0)">line 53</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_speed', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_speed.m', 62)" style="font-weight:bold">main_speed</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_speed.m',62,0)">line 62</a>)] 
+... 9-th dataset (#signals per group = 90): k-ARs done
+    elapsed time: 163.884034 sec.
+[Warning: The matching failed due to certain ground truth models are
+tooclose, or estimation errors are too large.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('labelmatch', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/labelmatch.m', 53)" style="font-weight:bold">labelmatch</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/labelmatch.m',53,0)">line 53</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_speed', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_speed.m', 62)" style="font-weight:bold">main_speed</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_speed.m',62,0)">line 62</a>)] 
+... 10-th dataset (#signals per group = 100): k-ARs done
+    elapsed time: 155.621187 sec.
+[Warning: The matching failed due to certain ground truth models are
+tooclose, or estimation errors are too large.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('labelmatch', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/labelmatch.m', 53)" style="font-weight:bold">labelmatch</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/labelmatch.m',53,0)">line 53</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_speed', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_speed.m', 62)" style="font-weight:bold">main_speed</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_speed.m',62,0)">line 62</a>)] 
+... 11-th dataset (#signals per group = 110): k-ARs done
+    elapsed time: 130.941053 sec.
+[Warning: The matching failed due to certain ground truth models are
+tooclose, or estimation errors are too large.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('labelmatch', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/labelmatch.m', 53)" style="font-weight:bold">labelmatch</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/labelmatch.m',53,0)">line 53</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_speed', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_speed.m', 62)" style="font-weight:bold">main_speed</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_speed.m',62,0)">line 62</a>)] 
+... 12-th dataset (#signals per group = 120): k-ARs done
+    elapsed time: 175.442199 sec.
+[Warning: The matching failed due to certain ground truth models are
+tooclose, or estimation errors are too large.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('labelmatch', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/labelmatch.m', 53)" style="font-weight:bold">labelmatch</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/labelmatch.m',53,0)">line 53</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_speed', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_speed.m', 62)" style="font-weight:bold">main_speed</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_speed.m',62,0)">line 62</a>)] 
+... 13-th dataset (#signals per group = 130): k-ARs done
+    elapsed time: 190.123592 sec.
+[Warning: The matching failed due to certain ground truth models are
+tooclose, or estimation errors are too large.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('labelmatch', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/labelmatch.m', 53)" style="font-weight:bold">labelmatch</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/labelmatch.m',53,0)">line 53</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_speed', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_speed.m', 62)" style="font-weight:bold">main_speed</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_speed.m',62,0)">line 62</a>)] 
+... 14-th dataset (#signals per group = 140): k-ARs done
+    elapsed time: 264.586984 sec.
+[Warning: The matching failed due to certain ground truth models are
+tooclose, or estimation errors are too large.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('labelmatch', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/labelmatch.m', 53)" style="font-weight:bold">labelmatch</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/labelmatch.m',53,0)">line 53</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_speed', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_speed.m', 62)" style="font-weight:bold">main_speed</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_speed.m',62,0)">line 62</a>)] 
+... 15-th dataset (#signals per group = 150): k-ARs done
+    elapsed time: 354.348901 sec.
+[Warning: The matching failed due to certain ground truth models are
+tooclose, or estimation errors are too large.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('labelmatch', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/labelmatch.m', 53)" style="font-weight:bold">labelmatch</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/labelmatch.m',53,0)">line 53</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_speed', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_speed.m', 62)" style="font-weight:bold">main_speed</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_speed.m',62,0)">line 62</a>)] 
+... 16-th dataset (#signals per group = 160): k-ARs done
+    elapsed time: 326.518143 sec.
+[Warning: The matching failed due to certain ground truth models are
+tooclose, or estimation errors are too large.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('labelmatch', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/labelmatch.m', 53)" style="font-weight:bold">labelmatch</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/labelmatch.m',53,0)">line 53</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_speed', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_speed.m', 62)" style="font-weight:bold">main_speed</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_speed.m',62,0)">line 62</a>)] 
+... 17-th dataset (#signals per group = 170): k-ARs done
+    elapsed time: 315.880042 sec.
+[Warning: The matching failed due to certain ground truth models are
+tooclose, or estimation errors are too large.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('labelmatch', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/labelmatch.m', 53)" style="font-weight:bold">labelmatch</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/labelmatch.m',53,0)">line 53</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_speed', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_speed.m', 62)" style="font-weight:bold">main_speed</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_speed.m',62,0)">line 62</a>)] 
+... 18-th dataset (#signals per group = 180): k-ARs done
+    elapsed time: 347.405043 sec.
+[Warning: The matching failed due to certain ground truth models are
+tooclose, or estimation errors are too large.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('labelmatch', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/labelmatch.m', 53)" style="font-weight:bold">labelmatch</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/labelmatch.m',53,0)">line 53</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_speed', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_speed.m', 62)" style="font-weight:bold">main_speed</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_speed.m',62,0)">line 62</a>)] 
+... 19-th dataset (#signals per group = 190): k-ARs done
+    elapsed time: 302.274350 sec.
+[Warning: The matching failed due to certain ground truth models are
+tooclose, or estimation errors are too large.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('labelmatch', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/labelmatch.m', 53)" style="font-weight:bold">labelmatch</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/labelmatch.m',53,0)">line 53</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_speed', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_speed.m', 62)" style="font-weight:bold">main_speed</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_speed.m',62,0)">line 62</a>)] 
+... 20-th dataset (#signals per group = 200): k-ARs done
+    elapsed time: 352.612237 sec.
+[Warning: The matching failed due to certain ground truth models are
+tooclose, or estimation errors are too large.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('labelmatch', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/labelmatch.m', 53)" style="font-weight:bold">labelmatch</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/labelmatch.m',53,0)">line 53</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_speed', '/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_speed.m', 62)" style="font-weight:bold">main_speed</a> (<a href="matlab: opentoline('/home/zyue/Public/Dropbox/Workspace/Matlab/fastKARs/main_speed.m',62,0)">line 62</a>)] 

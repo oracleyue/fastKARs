@@ -2,15 +2,22 @@ clear all; close all
 rng(4)
 
 % model specification
-p = 5;               % AR(p)
-T = 250;             % time length
-nGroup = 160;        % number of clusters
-nLimList = 1:10:150; % list of numbers of signals per group
-Var.init = .5;       % variance for initial states
-Var.noise = 1;       % variance for noise
-tol = 1e-8;          % tolerance for EM
+p = 5;                % AR(p)
+T = 250;              % time length
+nGroup = 160;         % number of clusters
+nLimList = 10:10:200; % list of numbers of signals per group
+Var.init = .5;        % variance for initial states
+Var.noise = 1;        % variance for noise
+tol = 1e-8;           % tolerance for EM
 method = 'kARs';
 % method = 'mixARs';
+
+switch method
+  case 'kARs'
+    diary main_speed-kARs.log
+  case 'mixARs'
+    diary main_speed-mixARs.log
+end
 
 % declare spaces
 nRuns = length(nLimList);
@@ -36,13 +43,19 @@ for n = 1:nRuns
     switch method
       case 'kARs'
         karTimer = tic;
-        [estLabels, estModels, estLkd] = kARs(data, nGroup, p, tol, 'fast');
+        [estLabels, estModels, estLkd] = kARs(data, nGroup, p, tol);
         eTimeKARs(n) = toc(karTimer);
+        fprintf('... %d-th dataset (#signals per group = %d): k-ARs done\n', ...
+                n, nLim)
+        fprintf('    elapsed time: %f sec.\n', eTimeKARs(n));
 
       case 'mixARs'
         marTimer = tic;
         [estLabels, estModels, estLkd] = mixARs(data, nGroup, p, tol);
         eTimeMARs(n) = toc(marTimer);
+        fprintf('... %d-th dataset (#signals per group = %d): mixARs done\n', ...
+                n, nLim)
+        fprintf('    elapsed time: %f sec.\n', eTimeMARs(n));
     end
 
     % performance
@@ -68,5 +81,6 @@ switch method
     save('benchmark_speed_kARs.mat');
   case 'mixARs'
     clear(garbageVars{:})
-    save('benchmark_speed_mixARs.mat');
+    save('benchmark_speed_mixARs2.mat');
 end
+diary off; system(['mv *.log ./ICASSP/']);

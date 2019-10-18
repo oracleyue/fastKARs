@@ -1,4 +1,5 @@
 clear all; close all
+diary main_accuracy.log
 rng(4)
 
 % model specification
@@ -26,7 +27,7 @@ for n = 1:nRuns
 
     % time-series clustering
     karTimer = tic;
-    [estLabelsKARs, estModelsKARs, estLkdKARs] = kARs(data, nGroup, p, tol, 'fast');
+    [estLabelsKARs, estModelsKARs, estLkdKARs] = kARs(data, nGroup, p, tol);
     fprintf('... %d-th dataset: k-ARs done', n)
     toc(karTimer)
 
@@ -49,3 +50,4 @@ garbageVars = {'data','gtLabels','gtModels', ...
                'estLabelsMARs', 'estModelsMARs', 'estLkdMARs', ...
                'labelMissed', 'idxPerm', 'idxLabelWrong'};
 save('benchmark_accuracy.mat');
+diary off; system(['mv *.log ./ICASSP/']);

@@ -1,7 +1,7 @@
 function [labels, models, ldf] = kARs(tsData, nGroup, p, tol, type)
 % KARS applies the k-ARs approach to clustering time-series data, which
 % is an extended version of k-means for time series.
-%
+ %
 % INPUT:
 %   tsData   :   (N x T) matrix
 %                N - number of samples, each of which is a univariate
@@ -40,6 +40,7 @@ function [labels, models, ldf] = kARs(tsData, nGroup, p, tol, type)
 
 % flags
 debugFlag = 0;
+warnFlag = 0;
 
 % Parsing arguments
 [N, Tstar] = size(tsData);
@@ -175,7 +176,9 @@ while 1
             msg = sprintf(['No time series contributes to the %d-th ' ...
                            'model.\n Model update has been skipped.'],...
                           k);
-            warning(msg);
+            if warnFlag
+                warning(msg);
+            end
         else
             for i = idxList'
                 XX = XX + XCell{i}' * XCell{i};

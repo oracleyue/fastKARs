@@ -5,7 +5,7 @@ rng(4)
 p = 5;            % AR(p)
 T = 250;          % time length
 nGroup = 160;     % number of clusters
-nLim = 20;       % [min,max] or n number of signals per group
+nLim = 200;       % [min,max] or n number of signals per group
 Var.init = .5;    % Var for initial states
 Var.noise = 1;    % Var for noise
 tol = 1e-8;       % tolerance
@@ -15,8 +15,8 @@ tol = 1e-8;       % tolerance
 
 % time-series clustering
 tic
-[estLabels, estModels, estLkd] = mixARs(data, nGroup, p, tol);
-% [estLabels, estModels, estLkd] = kARs(data, nGroup, p, tol, 'fast');
+% [estLabels, estModels, estLkd] = mixARs(data, nGroup, p, tol);
+[estLabels, estModels, estLkd] = kARs(data, nGroup, p, tol);
 toc
 
 % result summary
@@ -27,13 +27,9 @@ if isempty(idxLabelWrong)
 else
     fprintf(['Summary of Clustering Results\n' ...
              '-----------------------------\n']);
-    fprintf('\n> %d time series misclustered:\n  ', length(idxLabelWrong));
+    fprintf('> %d time series misclustered.\n', length(idxLabelWrong));
     % fprintf('%d ', idxLabelWrong); fprintf('\n');
-
-    fprintf('\n> %d groups missed:\n  ', length(labelMissed));
+    fprintf('> %d groups missed:\n  ', length(labelMissed));
     fprintf('%d ', labelMissed);
-    fprintf('\n');
-
-%     disp('Labels: ground truth vs. clustered')
-%     [gtLabels, estLabels]'
+    fprintf('\n\n');
 end
