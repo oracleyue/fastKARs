@@ -16,8 +16,8 @@ The following functions in MATLAB implement the methods proposed in
 
 - `mixARs.m`: applies mixARs method to perform time-series clustering;
 
-- `labelmatch.m`: matches the labels of ground truth clusters and the
-  labels of clustering results.
+- `minModelGaps.m` and `minNumMismatch.m`: matches the labels of ground
+  truth clusters and the labels of clustering results.
 
 ## Demo Scripts
 
@@ -28,5 +28,5 @@ The following scripts are used to generate benchmark results:
 - `main_speed.m`: benchmark computational time costs over data with
   different number of signals per clusters;
   
-- `main_accuray.m`: benchmark clustering accuracy over data with different
+- `main_precision.m`: benchmark clustering accuracy over data with different
   number of clusters.
