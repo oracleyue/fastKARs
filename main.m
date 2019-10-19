@@ -20,10 +20,12 @@ tic
 [estLabels, estModels, estLkd] = kARs(data, K, p, tol);
 toc
 
-% result summary
-[updateLabels, idxmap, labelMissed] = minModelGaps(gtModels, estModels, estLabels);
-% [updateLabels, idxmap, labelMissed] = minNumMismatch(gtLabels, estLabels);
+% label matching
+% [updateLabels, idxmap, labelMissed] = minModelGaps(gtModels, estModels, estLabels);
+[updateLabels, idxmap, labelMissed] = minNumMismatch(gtLabels, estLabels);
 idxLabelWrong = find(updateLabels-gtLabels);
+
+% sumamry
 if isempty(idxLabelWrong)
     disp('All have been successfully clustered.')
 else

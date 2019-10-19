@@ -47,20 +47,20 @@ for n = 1:nRuns
     numMissed(2,n) = length(labelMissedMARs);
 end
 
-% plot and export
+%% plot and export
 fig_hl = figure(2);
 pctWrong  = numWrong(1,:) ./ nSamples * 100;
 plot(nSamples, 100-pctWrong, '-o');
 hold on
 pctWrong  = numWrong(2,:) ./ nSamples * 100;
-plot(nSamples, 100-pctWrong, '-o');
+plot(nSamples, 100-pctWrong, '-*');
 xlabel('total number of samples $N$', 'interpreter', 'latex')
 ylabel('precision (\%)', 'interpreter', 'latex')
-legend('k-ARs', 'MixARs')
+legend('k-ARs', 'MixARs', 'interpreter', 'latex')
 grid on
 
 filename = ['benchmark-precision', '.pdf'];
-pos = [6.8472 5.8194 5.6528 2.1250];
+pos = [6.8472 6.1111 5.6528 2];
 set(fig_hl,'Units','Inches', 'Position', pos);
 set(fig_hl,'PaperPositionMode','Auto','PaperUnits','Inches','PaperSize',[pos(3), pos(4)])
 print(fig_hl, filename, '-dpdf', '-r0')
