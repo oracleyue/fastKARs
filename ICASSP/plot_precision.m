@@ -56,7 +56,7 @@ pctWrong  = numWrong(2,:) ./ nSamples * 100;
 plot(nSamples, 100-pctWrong, '-*');
 xlabel('total number of samples $N$', 'interpreter', 'latex')
 ylabel('precision (\%)', 'interpreter', 'latex')
-legend('k-ARs', 'MixARs', 'interpreter', 'latex')
+legend('k-ARs', 'MxARs', 'interpreter', 'latex')
 grid on
 
 filename = ['benchmark-precision', '.pdf'];

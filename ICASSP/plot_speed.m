@@ -38,7 +38,7 @@ yticks(logspace(0,5,6));
 yticklabels({'10^0', '10^1', '10^2', '10^3', '10^4', '10^5'});
 xlabel('total number of time series $N$', 'interpreter','latex');
 ylabel('CPU time (s)', 'interpreter','latex');
-leg_hl = legend('k-ARs', 'mixARs', ...
+leg_hl = legend('k-ARs', 'MxARs', ...
                 'location', 'southeast', 'interpreter','latex');
 grid on
 

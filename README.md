@@ -2,8 +2,12 @@
 
 This project implements the mixture AR method and the k-ARs method to
 perform time-series clustering. They both utilize the EM algorithm. The
-k-ARs method is proposed in [Yue & Solo, 2019] (submitted to ICASSP
-2020) to improve computation speed considerably for large-scale problems.
+k-ARs method is proposed in [Yue & Solo, 2020] to improve computation speed
+considerably for large-scale problems.
+
+*Zuogong Yue and Victor Solo (2020). Large-Scale Time Series Clustering
+with k-ARs. In 2020 IEEE International Conference on Acoustics, Speech and
+Signal Processing (ICASSP). IEEE, pp. (to be released online)*.
 
 ## Functions
 
